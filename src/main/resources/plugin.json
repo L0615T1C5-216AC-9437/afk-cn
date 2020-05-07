@@ -1,0 +1,7 @@
+{
+  "name": "afk",
+  "author": "L0615T1C5.216AC:9437 [Impact Phd]",
+  "main": "afk.Main",
+  "description": "Kicks afk player",
+  "version": 104
+}
