@@ -22,7 +22,7 @@ List your currently installed plugins/mods by running the `mods` command.
 
 ### Configuration and Info
 
-Files are stored in your system. (`C:\users\user\mind_db\async.cn / /home/user/mind_db/async.cn`)  
+Files are stored in your system. (`C:\users\user\mind_db\afk.cn / /home/user/mind_db/afk.cn`)  
 This is so the async list and settings are applied to all servers, *if* hosted on the same machine/instance/account.  
 
 To edit settings, use the server-commands provided.  
