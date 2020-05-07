@@ -3,7 +3,7 @@ AFKick plugin.
 Kicks players that are afk.
 ### Downloading a Jar
 1) go to [releases](https://github.com/L0615T1C5-216AC-9437/afk-cn/releases) and download latest version, (not recommended to use pre-releases)
-2) follow [#Installing](https://github.com/L0615T1C5-216AC-9437/afk0-cn/blob/master/README.md#installing)
+2) follow [#Installing](https://github.com/L0615T1C5-216AC-9437/afk-cn/blob/master/README.md#installing)
 
 ### Building a Jar
 
